@@ -1430,9 +1430,6 @@ body {
   }
 }
 
-/* ===================== */
-/* AJUSTES EXTRA */
-/* ===================== */
 body.container .flowers,
 body.container .night,
 body.container .message,
@@ -1446,3 +1443,4 @@ body:not(.container) .message,
 body:not(.container) .foto-flotante {
   display: block;
 }
+
